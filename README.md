@@ -15,7 +15,8 @@ one smart contract to an Ethereum test blockchain, and to interact with
 that contract via Remix and a web-based interface. The smart contract
 is written in the Solidity programming language.
 
-**Paper:**
+**Research Paper:**  *Currency Stability Using Blockchain Technology.* Bryan R. Routledge and Ariel Zetlin-Jones. Working Paper, December, 2019.
+[PDF] (https://www.andrew.cmu.edu/user/azj/files/cryptopeg.PAPER.v2.pdf)
 
 **Demo:** [Video/Demo (~17min)](http://sulawesi.tepper.cmu.edu/CryptoPeg)
 
