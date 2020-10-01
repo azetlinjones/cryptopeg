@@ -94,13 +94,13 @@ the directory structure required by the application.
 
   * This Javascript file contains configuration parameters for this truffle project.
 
-4) Within the directory named CryptoPeg, create a file named index_bob.html and [copy the code found here.](../../blob/master/index_bob.html)
+4) Within the directory named CryptoPeg, create a file named index_bob.html and [copy the code found here.](./html/index_bob.html)
 
-5) Within the directory named CryptoPeg, create a file named index_charlie.html and [copy the code found here.](../../blob/master/index_charlie.html)
+5) Within the directory named CryptoPeg, create a file named index_charlie.html and [copy the code found here.](./html/index_charlie.html)
 
-6) Within the directory named CryptoPeg, create a file named index_donna.html and [copy the code found here.](../../blob/master/index_donna.html)
+6) Within the directory named CryptoPeg, create a file named index_donna.html and [copy the code found here.](./html/index_donna.html)
 
-7) Within the directory named Lab2PartA, create a file named index.css and [copy the code found here.](../../blob/master/index.css)
+7) Within the directory named Lab2PartA, create a file named index.css and [copy the code found here.](./html/index.css)
 
 8) Find the deployed contract address (from Remix or from Ganache) and enter this in line 675 of each of the previous 3 HTML files (the ValueContract.at('ENTER HERE')). Open the files. You should be able to check the ETH balance of each user and see that it corresponds to the Ganache address balances of Address Indexes 1, 2, and 3.
 
