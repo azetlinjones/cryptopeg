@@ -61,7 +61,7 @@ is written in the Solidity programming language.
    interact with the deployed smart contract.
    You might also take a peek at the bytecode. This is the code that we will deploy to Ganache. It is the compiled Solidity code.
 
-6) Click the "Deploy and run transactions" icon on the left sidebar of Remix. The default environment is set to "Javascript VM". The CryptoPeg.sol contract can be tested in Remix using the Javascript VM environment. However, the Javascript VM environment is only used for local testing.  In this lab we will be using a Web3 Provider that allows us to connect to a running node. In this case, we want to connect to Ganache.
+6) Click the "Deploy and run transactions" icon on the left sidebar of Remix. The default environment is set to "Javascript VM". The CryptoPeg.sol contract can be tested in Remix using the Javascript VM environment. However, the Javascript VM environment is only used for local testing.  We are using a Web3 Provider that allows us to connect to a running node. In this case, we want to connect to Ganache.
 
 7) In Remix, visit the Environment selection box and choose "Web3 Provider". You will be prompted with an "External Node Request" box. Your Web3 Provider Endpoint is http://localhost:7545. See the Ganache user interface and verify the port (7545) is correct. A Web3 Provider knows how to talk to a running node.
 
@@ -100,7 +100,7 @@ the directory structure required by the application.
 
 6) Within the directory named CryptoPeg, create a file named index_donna.html and [copy the code found here.](./html/index_donna.html)
 
-7) Within the directory named Lab2PartA, create a file named index.css and [copy the code found here.](./html/index.css)
+7) Within the directory named CryptoPeg, create a file named index.css and [copy the code found here.](./html/index.css)
 
 8) Find the deployed contract address (from Remix or from Ganache) and enter this in line 675 of each of the previous 3 HTML files (the ValueContract.at('ENTER HERE')). Open the files. You should be able to check the ETH balance of each user and see that it corresponds to the Ganache address balances of Address Indexes 1, 2, and 3.
 
