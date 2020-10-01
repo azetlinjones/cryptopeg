@@ -51,7 +51,7 @@ is written in the Solidity programming language.
 
 3) In Remix, choose Solidity and create a new file named “CryptoPeg.sol".
 
-4) [Paste this code to CryptoPeg.sol](../../blob/master/CryptoPeg.sol)
+4) [Paste this code to CryptoPeg.sol](./CryptoPeg.sol)
 
 
 5) In Remix, click on "Compile CryptoPeg.sol" on the left sidebar.  (Once compilation
