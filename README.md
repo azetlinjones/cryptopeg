@@ -15,7 +15,7 @@ one smart contract to an Ethereum test blockchain, and to interact with
 that contract via Remix and a web-based interface. The smart contract
 is written in the Solidity programming language.
 
-## Part 1. Installations
+## Part 1 (Installations)
 
 1) Install git.
    See https://git-scm.com/downloads
