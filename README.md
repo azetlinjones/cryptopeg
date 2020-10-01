@@ -74,9 +74,10 @@ is written in the Solidity programming language.
 
 ```
    truffle init
-   npm init      take the suggested defaults
+   npm init
    npm install dotenv truffle-wallet-provider ethereumjs-wallet web3@0.20.1
 ```
+(Note, when running "npm init" select the suggested defaults.)
 
 3) Examine the directory structure:
 
