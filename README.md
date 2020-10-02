@@ -28,38 +28,31 @@ is written in the Solidity programming language.
    The node package manager (npm) is included with the download of
    node.js. See https://nodejs.org/en/download/
 3) Download and install truffle.
-   See: https://truffleframework.com/docs/truffle/getting-started/installation
-   '''
+```
    npm install -g truffle
-   '''
+```
+   See: https://truffleframework.com/docs/truffle/getting-started/installation
 4) Download and install Ganache.
    See: https://truffleframework.com/ganache
 5) If you want to use Atom as your editor (recommended) , download and install atom.
    See: https://atom.io
 6) If you are using Atom, you may want to download and install
-   language-solidity for Atom.
-   See: https://atom.io/packages/language-solidity
-7) If you are using Atom, you may want to download and install atom-solidity-linter
-   for Atom.
-   See: https://atom.io/packages/atom-solidity-linter
+   language-solidity and atom-solidity-linter for Atom:
+   See: https://atom.io/packages/language-solidity and https://atom.io/packages/atom-solidity-linter
 
 ## Part 2  (Deploying the Contract)
 
 1) Run ganache, choose the quick start option and leave it running.
 
-2) We recommend using the Remix IDE to compile Solidity source code. We will also
-
-   use Remix to deploy byte code to Ganache and interact with the contract.
-
-   Remix runs in your browser. You do not need to install it.
-
+2) We recommend using the Remix IDE to compile Solidity source code. We will use Remix
+   to deploy byte code to Ganache and interact with the contract. Remix runs in your
+   browser. You do not need to install it.
 
    Visit https://remix.ethereum.org/
 
 3) In Remix, choose Solidity and create a new file named “CryptoPeg.sol".
 
 4) [Paste this code to CryptoPeg.sol](./CryptoPeg.sol)
-
 
 5) In Remix, click on "Compile CryptoPeg.sol" on the left sidebar.  (Once compilation
    is complete, you may view the ABI. The ABI or Application Binary Interface is a
