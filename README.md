@@ -24,18 +24,24 @@ is written in the Solidity programming language.
 
 1) Install git.
    See https://git-scm.com/downloads
+   
 2) Download and install node.js and npm.
    The node package manager (npm) is included with the download of
    node.js. See https://nodejs.org/en/download/
+   
 3) Download and install truffle.
+
 ```
    npm install -g truffle
 ```
    See: https://truffleframework.com/docs/truffle/getting-started/installation
+   
 4) Download and install Ganache.
    See: https://truffleframework.com/ganache
+   
 5) If you want to use Atom as your editor (recommended) , download and install atom.
    See: https://atom.io
+   
 6) If you are using Atom, you may want to download and install
    language-solidity and atom-solidity-linter for Atom:
    See: https://atom.io/packages/language-solidity and https://atom.io/packages/atom-solidity-linter
