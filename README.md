@@ -29,7 +29,9 @@ is written in the Solidity programming language.
    node.js. See https://nodejs.org/en/download/
 3) Download and install truffle.
    See: https://truffleframework.com/docs/truffle/getting-started/installation
+   '''
    npm install -g truffle
+   '''
 4) Download and install Ganache.
    See: https://truffleframework.com/ganache
 5) If you want to use Atom as your editor (recommended) , download and install atom.
