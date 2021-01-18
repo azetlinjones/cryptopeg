@@ -2,7 +2,7 @@
 ### Bryan Routledge and Ariel Zetlin-Jones
 ### Tepper School of Business
 ### Carnegie Mellon University                  
-### October 2, 2020                                
+### January 18, 2021                                
 ### Email: azj@andrew.cmu.edu
 
 **Acknowledgements:** Routledge and Zetlin-Jones are grateful to Michael
